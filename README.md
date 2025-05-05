@@ -4,7 +4,7 @@
 <!-- About me -->
 <div>
   
-  - 🔭 I am currently working as an IT Tech Support in a small business
+  - 🔭 I am currently working as an IT Tech Support in a public company
   - 🌱 I am currently studying laravel for my Graduation Work project
   - 👯 I’m looking to collaborate on projects based on web and mobile development
   - 🤔 I’m looking for help with growing up in my career
